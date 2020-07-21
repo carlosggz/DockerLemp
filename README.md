@@ -22,3 +22,5 @@ To stop the containers, run docker-compose down.
 The database component, has a folder containing a dump with the initial scripts of the database. The generated schemas, will be stored on the database folder.
 
 The laravel code, contains the needed migrations in case you want to rebuild the database.
+
+The mail server UI can be reached at http://localhost:1080
